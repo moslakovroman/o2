@@ -1,0 +1,87 @@
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\api.dll.config
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\api.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\api.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\AutoMapper.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\BouncyCastle.Crypto.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\Google.Protobuf.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\model.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\Renci.SshNet.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Common.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Interfaces.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.OrmLite.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Redis.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.ServiceInterface.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Text.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\model.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\AutoMapper.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\Google.Protobuf.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\Renci.SshNet.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Common.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Interfaces.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Redis.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\bin\Debug\ServiceStack.Text.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\api\obj\Debug\api.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\MVC\Library\Library\api\obj\Debug\api.csproj.CopyComplete
+d:\C#\Programming\C# practice\MVC\Library\Library\api\obj\Debug\api.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\api\obj\Debug\api.pdb
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\api.dll.config
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\api.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\api.pdb
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\AutoMapper.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\Google.Protobuf.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\model.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\Renci.SshNet.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Common.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Interfaces.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.OrmLite.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Redis.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Text.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\model.pdb
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\AutoMapper.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\Google.Protobuf.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\Renci.SshNet.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Common.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Interfaces.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Redis.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\bin\Debug\ServiceStack.Text.xml
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\obj\Debug\api.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\obj\Debug\api.csproj.CopyComplete
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\obj\Debug\api.dll
+D:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\api\obj\Debug\api.pdb
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\api.dll.config
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\api.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\api.pdb
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\AutoMapper.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\Google.Protobuf.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\model.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\Renci.SshNet.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Common.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Interfaces.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.OrmLite.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Redis.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Text.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\model.pdb
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\AutoMapper.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\Google.Protobuf.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\Renci.SshNet.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Common.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Interfaces.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Redis.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\bin\Debug\ServiceStack.Text.xml
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\obj\Debug\api.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\obj\Debug\api.csproj.CopyComplete
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\obj\Debug\api.dll
+D:\C#\Programming\C# practice\MVC\Second Project for Ivan (O2)\Library\api\obj\Debug\api.pdb
